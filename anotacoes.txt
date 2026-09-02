@@ -1,1 +1,3 @@
 Primeiro nos a gente colocou os integrantes do grupo como colaboradores
+
+Depois nos comecamos a fazer os nossos commits para colocar no github
