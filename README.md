@@ -8,7 +8,7 @@ trabalhando de forma colaborativa.
 
 ## Integrantes
 
-- Seu Nome
+- Vitor Gabriel Ferreira Lima
 - Nome do Integrante 2
 - Nome do Integrante 3
 
