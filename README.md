@@ -1,6 +1,6 @@
 Projeto da Equipe
 
-## Sobre o projeto
+Sobre o projeto
 
 Este é um projeto desenvolvido em equipe para a atividade avaliativa
 de Design Profissional. O objetivo é praticar o uso do Git e GitHub,
