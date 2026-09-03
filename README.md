@@ -1,4 +1,4 @@
-# Projeto da Equipe
+Projeto da Equipe
 
 ## Sobre o projeto
 
